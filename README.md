@@ -21,6 +21,7 @@
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
 </div>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yvenscivel&bg_color=030c1c&color=74c8a4&line=30afc0&point=184677&area=true&hide_border=true)](https://github.com/yvenscivel/github-readme-activity-graph)
 <br>
