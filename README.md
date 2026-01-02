@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Yvens+Almeida;Tenho+20+anos+de+idade;Sou+de+Morada+Nova,+CE;Ciência+da+Computação+pela+UFC;Seja+Bem-vindo+ao+meu+Github+:%29" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Yvens+Almeida;Tenho+21+anos+de+idade;Sou+de+Morada+Nova,+CE;Ciência+da+Computação+pela+UFC;Seja+Bem-vindo+ao+meu+Github+:%29" />
   </a>
 </div>
 
@@ -11,8 +11,9 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yvenscivel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yvenscivel github stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvenscivel&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yvenscivel&show_icons=true&theme=tokyonight&border_radius=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yvenscivel github stats" />
+    
+  <br/>
 </div>
 
 ---
@@ -28,7 +29,7 @@
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
-  <img height="50px" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" title="n8n" />
+  <img height="50px" src="https://static-00.iconduck.com/assets.00/n8n-icon-2048x2048-9fxtd6at.png" title="n8n" />
 </div>
 
 ---
