@@ -29,7 +29,7 @@
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
-  <img height="50px" src="https://static-00.iconduck.com/assets.00/n8n-icon-2048x2048-9fxtd6at.png" title="n8n" />
+  <img height="50px" src="https://n8n.io/brandguidelines/dont/shadow.png" title="n8n" />
 </div>
 
 ---
