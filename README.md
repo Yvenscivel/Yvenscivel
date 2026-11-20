@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yvens--almeida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvens-almeida-78a358209/)
 [![Gmail](https://img.shields.io/badge/Gmail-yvensalmeida21-00bfbf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvensalmeida21@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-yvens__almeida-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yvens_almeida/)
 ![Local](https://img.shields.io/badge/Morada_Nova-CE-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00bfbf)
 
 </div>
@@ -84,8 +83,10 @@ Estou concluindo **Ciência da Computação na UFC** e hoje trabalho de forma re
 ## 📊 GitHub em números
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yvenscivel&show_icons=true&theme=tokyonight&border_radius=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yvenscivel&layout=compact&theme=tokyonight&border_radius=10&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yvenscivel&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yvenscivel&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
+  <br/>
+  <img width="98%" src="https://streak-stats.demolab.com/?user=Yvenscivel&theme=tokyonight&hide_border=true&border_radius=10" alt="Sequência de contribuições" />
 </div>
 
 ---
